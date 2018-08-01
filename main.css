@@ -1,0 +1,9 @@
+.with_margin {
+    margin-top: 40px;
+}
+.open {
+    display: block;
+}
+.hide {
+    display: none;
+}
